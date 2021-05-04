@@ -1,4 +1,4 @@
-baseURL = "https://dakswebsite.netlify.app"
+baseURL = "https://dakswebsite"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
